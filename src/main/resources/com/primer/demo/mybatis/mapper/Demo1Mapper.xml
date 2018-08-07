@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.primer.demo.mybatis.mapper.Demo1Mapper">
+	<insert id="insert">
+		insert into man_woman_bind (man_id,woman_id,create_ts) values (#{manId},#{womanId},now())
+	</insert>
+	<select id="queryWomanList" resultType="int">
+		select woman_id from man_woman_bind where man_id = #{manId}
+	</select>
+	<delete id="delete">
+		delete from man_woman_bind where man_id = #{manId} and woman_id = #{womanId}
+	</delete>
+</mapper>
