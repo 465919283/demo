@@ -1,0 +1,128 @@
+2019-11-22 15:45:08,456 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 84460 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:45:08,459 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:45:08,666 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:45:10,146 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:45:10,160 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:45:10,160 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:45:10,204 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:46:47,830 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 89456 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:46:47,832 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:46:48,026 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:46:49,495 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:46:49,502 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:46:49,502 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:46:49,533 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:47:00,315 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 89260 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:47:00,323 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:47:00,558 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:47:02,032 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:47:02,042 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:47:02,042 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:47:02,083 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:47:02,297 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactoryBean' with instanceId 'WIN-BTUQI4U7L501574408822033'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2019-11-22 15:47:02,297 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'schedulerFactoryBean' initialized from an externally provided properties instance.
+2019-11-22 15:47:02,297 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-11-22 15:47:02,298 [main] [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: com.primer.demo.task.QuartzConfig$AutowiringSpringBeanJobFactory@660591fb
+2019-11-22 15:47:03,157 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408822033 shutting down.
+2019-11-22 15:47:03,157 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408822033 paused.
+2019-11-22 15:47:03,158 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408822033 shutdown complete.
+2019-11-22 15:47:03,163 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-11-22 15:49:38,557 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 82008 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:49:38,559 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:49:38,899 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:49:40,312 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:49:40,319 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:49:40,319 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:49:40,349 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:49:40,544 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactoryBean' with instanceId 'WIN-BTUQI4U7L501574408980312'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2019-11-22 15:49:40,544 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'schedulerFactoryBean' initialized from an externally provided properties instance.
+2019-11-22 15:49:40,544 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-11-22 15:49:40,544 [main] [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: com.primer.demo.task.QuartzConfig$AutowiringSpringBeanJobFactory@4a7761b1
+2019-11-22 15:49:44,132 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408980312 started.
+2019-11-22 15:49:44,201 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408980312 paused.
+2019-11-22 15:49:44,202 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408980312 shutting down.
+2019-11-22 15:49:44,202 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408980312 paused.
+2019-11-22 15:49:44,203 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574408980312 shutdown complete.
+2019-11-22 15:49:44,204 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-11-22 15:50:41,895 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 55820 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:50:41,898 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:50:42,420 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:50:43,474 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:50:43,481 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:50:43,481 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:50:43,511 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:50:43,695 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactoryBean' with instanceId 'WIN-BTUQI4U7L501574409043475'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2019-11-22 15:50:43,695 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'schedulerFactoryBean' initialized from an externally provided properties instance.
+2019-11-22 15:50:43,695 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-11-22 15:50:43,695 [main] [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: com.primer.demo.task.QuartzConfig$AutowiringSpringBeanJobFactory@226b143b
+2019-11-22 15:50:45,254 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409043475 started.
+2019-11-22 15:50:45,298 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409043475 paused.
+2019-11-22 15:50:45,299 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409043475 shutting down.
+2019-11-22 15:50:45,299 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409043475 paused.
+2019-11-22 15:50:45,399 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409043475 shutdown complete.
+2019-11-22 15:50:45,400 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-11-22 15:53:13,267 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 76216 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:53:13,271 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:53:13,550 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:53:14,788 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:53:14,794 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:53:14,795 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:53:14,828 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:53:15,023 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactoryBean' with instanceId 'WIN-BTUQI4U7L501574409194789'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2019-11-22 15:53:15,023 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'schedulerFactoryBean' initialized from an externally provided properties instance.
+2019-11-22 15:53:15,023 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-11-22 15:53:15,023 [main] [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: com.primer.demo.task.QuartzConfig$AutowiringSpringBeanJobFactory@765df79d
+2019-11-22 15:53:16,606 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409194789 started.
+2019-11-22 15:53:16,652 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409194789 paused.
+2019-11-22 15:53:16,654 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409194789 shutting down.
+2019-11-22 15:53:16,654 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409194789 paused.
+2019-11-22 15:53:16,655 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409194789 shutdown complete.
+2019-11-22 15:53:16,655 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-11-22 15:53:55,022 [main] [INFO ] com.primer.demo.Application - Starting Application on WIN-BTUQI4U7L50 with PID 87940 (E:\work\wesley\demo\target\classes started by Administrator in E:\work\wesley\demo)
+2019-11-22 15:53:55,034 [main] [INFO ] com.primer.demo.Application - No active profile set, falling back to default profiles: default
+2019-11-22 15:53:55,229 [background-preinit] [INFO ] org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2019-11-22 15:53:56,742 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Using default implementation for ThreadExecutor
+2019-11-22 15:53:56,756 [main] [INFO ] org.quartz.core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-22 15:53:56,757 [main] [INFO ] org.quartz.core.QuartzScheduler - Quartz Scheduler v.2.3.0 created.
+2019-11-22 15:53:56,798 [main] [INFO ] com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-11-22 15:53:57,006 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v2.3.0) 'schedulerFactoryBean' with instanceId 'WIN-BTUQI4U7L501574409236744'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2019-11-22 15:53:57,006 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler 'schedulerFactoryBean' initialized from an externally provided properties instance.
+2019-11-22 15:53:57,006 [main] [INFO ] org.quartz.impl.StdSchedulerFactory - Quartz scheduler version: 2.3.0
+2019-11-22 15:53:57,006 [main] [INFO ] org.quartz.core.QuartzScheduler - JobFactory set to: com.primer.demo.task.QuartzConfig$AutowiringSpringBeanJobFactory@68ba310d
+2019-11-22 15:53:58,485 [main] [INFO ] org.quartz.core.QuartzScheduler - Scheduler schedulerFactoryBean_$_WIN-BTUQI4U7L501574409236744 started.
+2019-11-22 15:53:58,611 [main] [INFO ] com.primer.demo.Application - Started Application in 3.99 seconds (JVM running for 4.901)
